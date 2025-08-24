@@ -50,12 +50,6 @@ bc.mine()
 
 ## 📄 License
 
-Free for educational use.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-
----
-
-If you want, I can also **optimize this so GitHub displays an example blockchain output nicely formatted** in the README.  
-Do you want me to do that?
 ```
