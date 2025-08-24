@@ -2,6 +2,8 @@
 
 A minimal blockchain implementation in Python demonstrating core concepts with clean, educational code.
 
+![Blockchain Visualization](block.png)
+
 ## Features
 
 - 🔗 **Blockchain Structure** - Linked blocks with cryptographic hashing
